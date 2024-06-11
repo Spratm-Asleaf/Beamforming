@@ -10,7 +10,7 @@
 
 Online supplementary materials of the paper titled 
 
-**Distributionally Robust Beamforming and Estimation of Wireless Signals**
+**Distributionally Robust Receive Beamforming**
 
 Under Submission: [ArXiv Version](https://arxiv.org/abs/2401.12345)
    
