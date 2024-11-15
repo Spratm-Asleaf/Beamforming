@@ -1,6 +1,6 @@
 %{
     Online Supplementary Materials of the paper titled:
-        "Distributionally Robust Beamforming and Estimation of Wireless Signals"
+        "Distributionally Robust Receive Beamforming"
     By
         Shixiong Wang, Wei Dai, and Geoffrey Ye Li
     From 
@@ -19,6 +19,7 @@ clc;
 
 
 %% Load Dependencies
+%  Remember to install the YALMIP solver
 addpath('[1] Utils\Channel\');
 addpath('[1] Utils\Tools\');
 addpath('[1] Utils\Tools\Random Variables\');
