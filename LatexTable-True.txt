@@ -1,0 +1,11 @@
+Wnr           & 0.55      & 1.82e-04      & Wnr-DL          & 0.55    & 1.90e-05 \\
+\hline
+Wnr-DR        & 0.54      & 6.01e+00      & Wnr-CE          & 0.55    & 1.15e-04 \\
+\hline
+Wnr-CE-DL     & 0.55      & 3.10e-05      & Wnr-CE-DR       & 0.55    & 1.25e-04 \\
+\hline
+Capon         & 3.92      & 1.11e-04      & Capon-DL        & 3.91    & 3.62e-05 \\
+\hline
+ZF            & 3.48      & 7.70e-05      & Kernel          & 0.79    & 1.79e-03 \\
+\hline
+Kernel-DL     & 0.56      & 1.64e-03      &                 &         &      \\
